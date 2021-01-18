@@ -23,11 +23,11 @@
 - 데이터 전처리 -> 시각화 -> ttest(평균비교) -> 소비자 패턴 분석 -> 회귀분석 순으로 진행하였고
 - 시각화 과정에서 지역과 업종의 선택 이유를 들기 위해 전북/전남 데이터와 비교하여 매출 감소율을 구하는 방식 사용
 
-<img src ="https://user-images.githubusercontent.com/45381907/104893893-58e19c80-59b7-11eb-9a52-866109c28697.png" width="300">
+<img src ="https://user-images.githubusercontent.com/45381907/104893893-58e19c80-59b7-11eb-9a52-866109c28697.png" width="600">
 
 - 소비자 패턴 분석 과정에서는 ttest 결과와 실제 기사를 비교하여 패턴 분석
 
-<img src="https://user-images.githubusercontent.com/45381907/104894022-86c6e100-59b7-11eb-9307-2e11b1c01e25.png" width="300"> 
+<img src="https://user-images.githubusercontent.com/45381907/104894022-86c6e100-59b7-11eb-9307-2e11b1c01e25.png" width="600"> 
 
 - 회귀분석 과정에서는 두가지로 나누어 실행
   - p-value를 기준으로 변수들이 유의한지를 결정하여 모델 변수 선택
@@ -35,4 +35,4 @@
 
 - 최종적으로 도출해낸 회귀식 및 결과 해석
 
-<img src ="https://user-images.githubusercontent.com/45381907/104894217-c2fa4180-59b7-11eb-864c-40769dfcd8a0.png" width="300">
+<img src ="https://user-images.githubusercontent.com/45381907/104894217-c2fa4180-59b7-11eb-864c-40769dfcd8a0.png" width="600">
